@@ -6,6 +6,15 @@
 
 ---
 #### ⚒️ ЯЗЫКИ И ИНСТРУМЕНТЫ:
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+
 [![python](https://camo.githubusercontent.com/8e7ef4279b0f77e9cd7b27d90eb02b4a654e13f75e31ca141771c93aadb2f077/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d77686974653f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765)](https://www.python.org/)
 [![pandas](https://camo.githubusercontent.com/c0a79732fc6fddc428bbe83cdf5d7764f12d5eb9b4bb5acaa2ee15a450d27388/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d77686974653f6c6f676f3d70616e646173266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765)](https://pandas.pydata.org/docs/reference/index.html)
 [![numpy](https://camo.githubusercontent.com/6bdac73b193c943b115366e240cc0b02bef003fd50e57e0b0bac65646d54fa4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d77686974653f6c6f676f3d6e756d7079266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765)](https://numpy.org/doc/stable/reference/index.html)
