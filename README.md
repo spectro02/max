@@ -10,21 +10,12 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-[![python](https://camo.githubusercontent.com/8e7ef4279b0f77e9cd7b27d90eb02b4a654e13f75e31ca141771c93aadb2f077/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d77686974653f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765)](https://www.python.org/)
-[![pandas](https://camo.githubusercontent.com/c0a79732fc6fddc428bbe83cdf5d7764f12d5eb9b4bb5acaa2ee15a450d27388/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d77686974653f6c6f676f3d70616e646173266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765)](https://pandas.pydata.org/docs/reference/index.html)
-[![numpy](https://camo.githubusercontent.com/6bdac73b193c943b115366e240cc0b02bef003fd50e57e0b0bac65646d54fa4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d77686974653f6c6f676f3d6e756d7079266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765)](https://numpy.org/doc/stable/reference/index.html)
-[![matplotlib](https://camo.githubusercontent.com/86e9def5b8ea4baaf6edc890845202c380fe5c19403fd0f3e91a14d5dbf71039/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b)](https://matplotlib.org/)
-[![mysql](https://camo.githubusercontent.com/f6e07d70690b82fbb2f36997d502d1a18ea3eee5af23527e1d684d69dc721711/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7953514c2d77686974653f6c6f676f3d6d7953514c2673267374796c653d666f722d7468652d6261646765)](https://www.mysql.com/)
-[![postgresql](https://camo.githubusercontent.com/21989393dad5c52c4a50c451c0108d5ea48b8d843c74ca206f9734c4aafc1fbf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d77686974653f6c6f676f3d506f737467726553514c2673267374796c653d666f722d7468652d6261646765)](https://www.postgresql.org/)
-[![plotly](https://camo.githubusercontent.com/c8238a2e2f10b02b410d8f489fd450dc7f99c0304bd6ab09ee2582714902ebc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706c6f746c792d77686974653f6c6f676f3d706c6f746c79266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765)](https://plotly.com/python/)
-[![scipy](https://camo.githubusercontent.com/f0473ed81ad5ffe0220070ec599a3e9418d9e8f3fdb51c31f79d1c3f462b0ae5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53636970792d77686974653f6c6f676f3d5363697079266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)](https://docs.scipy.org/doc/scipy/reference/index.html)
-[![clickhouse](https://camo.githubusercontent.com/2ed62ad2ff9c387d16d66de27dafd68c9ba623814d2f08e3b6645c829007ef03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c69636b686f7573652d77686974653f6c6f676f3d436c69636b686f757365267374796c653d666f722d7468652d6261646765)](https://clickhouse.com/docs/ru)
-[![redash](https://camo.githubusercontent.com/6da5a75670fc7be40cba6c2b0a8ef7bc5b24eab302f8b03784e24d39fcabdb6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265646173682d77686974653f6c6f676f3d726564617368266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)](https://redash.io/product/)
-[![tableau](https://camo.githubusercontent.com/104718c10f89478d6f1b7093e75b25c384ddd12280dd7ccbc3a606a2d207c411/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d77686974653f6c6f676f3d5461626c6561752673266c6f676f436f6c6f723d79656c6c6f77267374796c653d666f722d7468652d6261646765)](https://public.tableau.com/app/profile/natalia.shishkova/vizzes)
-[![excel](https://camo.githubusercontent.com/cb9b184c20a436cf66e22f9b0353cd4e3b0a75cc66a51f1100b1a62858930a07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657863656c2d77686974653f6c6f676f3d457863656c266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)](https://www.microsoft.com/ru-ru/microsoft-365/excel?market=ru)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 
 
 
