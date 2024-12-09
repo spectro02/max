@@ -27,7 +27,7 @@
 
 | Название     | Стек  | Описание проекта
 :----|:-----------|:------
-|[Анализ проведенного а/б теста](https://github.com/spectro02/analyst_projects/blob/main/b%20test%20project.ipynb) | Pandas Numpy Seaborn Matplotlib Scipy| Обновленная версия данных о продажах видеоигр, взятая с Kaggle, включает дополнительные параметры: возрастные рейтинги, оценки пользователей и критиков.
+|[Анализ проведенного а/б теста](https://github.com/spectro02/analyst_projects/blob/main/b%20test%20project.ipynb) | Pandas Numpy Seaborn Matplotlib Scipy| Анализ эффективности проведенного а/б теста по изменению подписки в мобильном приложении.
 |[Исследовательский анализ продаж видеоигр](https://github.com/spectro02/analyst_projects/blob/main/EDA_game_analysis.ipynb) | python, pandas, numpy, seaborn, matplotlib | 
 |[Анализ приложения доставки](https://github.com/) | 
 
